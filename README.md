@@ -1,38 +1,57 @@
-# **Concrete Strength Prediction** 
-Concrete Strength Prediction is  that utilizes advanced algorithms and data analysis to forecast the strength of concrete mixes. 
+# Concrete Strength Prediction
+
+Concrete Strength Prediction is a machine learning project that leverages advanced algorithms to predict the strength of concrete based on various input features. The entire application is built using Streamlit, providing an interactive and user-friendly interface for users to explore and understand the predictions.
 
 
-## Web Screenshorts
+## WebPage 
+
+
+https://github.com/Priyanshu-Ganwani09/Concrete-Strength-Prediction/assets/96206037/01ef45a2-c4f5-4dca-b038-677f00b2a033
+
+
+
 ## Installation
 
-Install my-project with npm
+### 1. Clone the repository:
+    git clone https://github.com/Priyanshu-Ganwani09/Concrete-Strength-Prediction.git
 
-bash
-  npm install my-project
-  cd my-project
+### 2. Navigate to the project directory:
+    cd Concrete-Strength-Prediction
 
+### 3. Install dependencies:
+    pip install -r requirements.txt
+
+### 4. Run the streamlit app:
+    streamlit run app.py
+   
     
-## About Project
-## Workflow of Model
-## Tech Stack
-
-*Client:* React, Redux, TailwindCSS
-
-*Server:* Node, Express
+## Workflow of Machine Learning Model:
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+![workflow](https://github.com/Priyanshu-Ganwani09/Concrete-Strength-Prediction/assets/96206037/d4d08bcd-5e58-4abc-9d0a-2c34e4dff73c)
 
 
-## Web Application 
+## Key Features
 
+
+ Machine Learning Models Utilizes powerful machine learning models to analyze concrete strength patterns.
+ 
+ The application is developed using Streamlit, a modern and intuitive Python library for creating web applications with minimal effort.
+ 
+ Employs predictive analytics to forecast concrete strength, allowing users to make informed decisions.
+
+ ## Tech stack
+
+[![Python](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-orange.svg)](https://www.streamlit.io/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3.2-green.svg)](https://scikit-learn.org/stable/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.0.3-blueviolet.svg)](https://xgboost.readthedocs.io/en/latest/)
+
+
+
+
+##  Data source
  - [Dataset Source](http://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
- - [Streamlit App](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Support
 

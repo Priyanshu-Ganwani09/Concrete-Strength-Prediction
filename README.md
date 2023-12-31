@@ -54,6 +54,9 @@ https://github.com/Priyanshu-Ganwani09/Concrete-Strength-Prediction/assets/96206
 ##  Data source
  - [Dataset Source](http://archive.ics.uci.edu/dataset/165/concrete+compressive+strength)
 
+## Features updates
+ -intregate more function and tools for prediction in website 
+
 ## Support
 
 For support, email priyanshu@priyanshuganwani8999@gmail.com or join our Slack channel.

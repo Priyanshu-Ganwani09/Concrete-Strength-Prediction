@@ -59,4 +59,4 @@ https://github.com/Priyanshu-Ganwani09/Concrete-Strength-Prediction/assets/96206
 
 ## Support
 
-For support, email priyanshu@priyanshuganwani8999@gmail.com or join our Slack channel.
+For support, email priyanshu@priyanshuganwani8999@gmail.com

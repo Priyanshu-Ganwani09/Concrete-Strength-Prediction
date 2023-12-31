@@ -19,6 +19,28 @@ title_style = "border: 1px solid #ddd; border-radius: 4px; padding: 5px; backgro
 #Set Page title
 st.set_page_config(page_title="Strength Forecast", layout = 'wide', page_icon = 'lo.jpg', initial_sidebar_state = 'auto')
 
+#setting page theme
+
+# Define custom dark theme CSS
+dark_theme_css = """
+    <style>
+        body {
+            background-color: #1E1E1E;
+            color: #FFFFFF;
+            font-family: 'Arial', sans-serif;
+        }
+        .stApp {
+            background-color: #1E1E1E;
+        }
+        .css-17e1w1i {
+            background-color: #272727;
+        }
+    </style>
+"""
+
+# Inject dark theme CSS into the app
+st.markdown(dark_theme_css, unsafe_allow_html=True)
+
 # Use st.markdown to format the title with the specified style
 st.markdown(f'<div style="{title_style}"><h2 style="text-align:center; font-weight: bold;">Concrete Strength Predictions</h2></div>', unsafe_allow_html=True)
 
